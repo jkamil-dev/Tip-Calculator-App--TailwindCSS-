@@ -28,8 +28,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL:(https://github.com/jkamil-dev/Tip-Calculator-App--TailwindCSS-https://github.com/jkamil-dev/Tip-Calculator-App--TailwindCSS-)
+- Live Site URL: (https://jkamil-dev.github.io/Tip-Calculator-App--TailwindCSS-/)
 
 ## My process
 
